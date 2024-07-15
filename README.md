@@ -10,8 +10,8 @@ Store only basic code of Django project.
 **3. final**
 <p> cd /mydjangoproject </p>
 
-``requrement installation``
-<b> pip install -r requirement.txt</b>
+### requrement installation
+``pip install -r requirement.txt``
 
-``run project``
-<mark> py manage.py runserver</mark> and go to http://127.0.0.1:8000/myapp/
+### run project
+``py manage.py runserver`` and go to http://127.0.0.1:8000/myapp/
