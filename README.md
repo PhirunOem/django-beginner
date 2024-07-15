@@ -5,7 +5,7 @@ Store only basic code of Django project.
 <p> -> clone project [by go to] (https://github.com/PhirunOem/django-beginner) </p>
 
 **2. Secend step**
-<p> -> create virtual environment at the folder of project and activate it</p>
+<p> -> create virtual environment at the same folder of project and activate it</p>
 
 **3. final**
 <p> cd /mydjangoproject </p>
